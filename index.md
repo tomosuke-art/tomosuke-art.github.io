@@ -1,4 +1,5 @@
-<img src ="profile_face.jpg" width="400">
+<img src ="profile_face.jpg" width="400"><br>
+
 # About Me
 20年間京都に住んでます！！  
 大学卒業後は京都を出るぞ！！
