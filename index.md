@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# About Me
+20年間京都に住んでます！！  
+大学卒業後は京都を出るぞ！！
+2020年3月よりプログラミング学習開始！！  
+2020年3月　〜　2020年6月 プログラミング教室GeekSalonにて基礎を学びオリジナルのwebアプリケーションを作成！！  
+2020年7月　〜 独学でJavaScript,Node.js,AWSなどを勉強し始める！！  
 
-You can use the [editor on GitHub](https://github.com/tomosuke-art/tomosuke-art.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+将来は、エンジニアもしくはプログラミングの知識・スキルを活かせる職に就きたい！！  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Profile
+中川　友太朗<br>
+大学：同志社大学経済学部経済学科３回生<br>
+居住地：京都市<br>
+誕生日：1999/11/30<br>
 
-### Markdown
+# Skills
+使ったことや興味のある言語、ツール、OS
+- OS（Linux,Ubuntu）
+- Languages　(HTML&CSS,Sass,Ruby,Ruby on rails,JavaScript,Node.js, Expressなど)
+- Tool,MiddleWare（Git,GitHub,AWSなど）
+- 資格、免許（普通自動車運転免許（笑））
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Works
+- [GitHub](https://github.com/tomosuke-art)
+- 作った作品
+  - [Let`s Share My Favorite!](lets-share-netflix.herokuapp.com/) -> Netflixのオススメ作品を共有するサイト
 
-```markdown
-Syntax highlighted code block
+# Contact
+連絡先を書きましょう。
+- [Twitter](https://twitter.com/tomotomo_1D)
+- [Facebook](https://www.facebook.com/profile.php?id=100011250104610)
+- [Mail](taro91834@gmail.com)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tomosuke-art/tomosuke-art.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# History
+学歴、職歴、アルバイト、インターン経験など。
+- 2018年 　　同志社大学経済学部入学
+- 2018年 〜　飲食・小売・清掃のアルバイト,バスケットボールのサークル活動
+- 2020年 〜　IT業界を中心に幅広くみてます！
