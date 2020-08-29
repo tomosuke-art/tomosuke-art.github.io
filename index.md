@@ -14,7 +14,8 @@
 大学：同志社大学経済学部経済学科３回生<br>
 居住地：京都市<br>
 誕生日：1999/11/30<br>
-好きなYouTuber:<iframe width="560" height="315" src="https://www.youtube.com/embed/FH7L0kyl2GA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+好きなYouTuber:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FH7L0kyl2GA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Skills
 使ったことや興味のある言語、ツール、OS
