@@ -14,7 +14,7 @@
 大学：同志社大学経済学部経済学科３回生<br>
 居住地：京都市<br>
 誕生日：1999/11/30<br>
-好きなYouTuber<br>
+好きなYouTuber:中田敦彦のYouTube大学<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FH7L0kyl2GA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Skills
@@ -31,7 +31,8 @@
 
 # Contact
 連絡先を書きましょう。
-- [Twitter](https://twitter.com/tomotomo_1D)
+- [Twitter](https://twitter.com/tomotomo_1D)<br>
+<a class="twitter-timeline" data-width="400" data-height="400" data-theme="light" href="https://twitter.com/tomotomo_1D?ref_src=twsrc%5Etfw">Tweets by tomotomo_1D</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - [Facebook](https://www.facebook.com/profile.php?id=100011250104610)
 - [Mail](taro91834@gmail.com)
 
