@@ -1,4 +1,4 @@
-<img src ="profile_face.jpg" width="400"><br>
+<img src ="profile_face.jpg" width="600"><br>
 
 # About Me
 20年間京都に住んでます！！  
