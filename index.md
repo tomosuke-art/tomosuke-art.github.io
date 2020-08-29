@@ -30,7 +30,6 @@
   - [Let`s Share My Favorite!](lets-share-netflix.herokuapp.com/) -> Netflixのオススメ作品を共有するサイト
 
 # Contact
-連絡先を書きましょう。
 - [Twitter](https://twitter.com/tomotomo_1D)<br>
 <a class="twitter-timeline" data-width="400" data-height="400" data-theme="light" href="https://twitter.com/tomotomo_1D?ref_src=twsrc%5Etfw">Tweets by tomotomo_1D</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - [Facebook](https://www.facebook.com/profile.php?id=100011250104610)
