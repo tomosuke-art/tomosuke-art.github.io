@@ -28,7 +28,7 @@
 - [GitHub](https://github.com/tomosuke-art)
 - 作った作品
   - [Let`s Share My Favorite!](lets-share-netflix.herokuapp.com/) -> Netflixのオススメ作品を共有するサイト
-<img src ="lets-share-netflix.jpg" width="400"><br>
+  - <img src ="lets-share-netflix.jpg" width="400"><br>
 
 # Contact
 - [Twitter](https://twitter.com/tomotomo_1D)<br>
