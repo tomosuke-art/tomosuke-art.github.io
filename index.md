@@ -5,7 +5,7 @@
 大学卒業後は京都を出るぞ！！
 2020年3月よりプログラミング学習開始！！  
 2020年3月　〜　2020年6月 プログラミング教室GeekSalonにて基礎を学びオリジナルのwebアプリケーションを作成！！  
-2020年7月　〜 独学でJavaScript,Node.js,AWSなどを勉強し始める！！  
+2020年7月　〜 独学でJavaScript,Node.js,AWS,Dockerなどを勉強し始める！！  
 
 将来は、エンジニアもしくはプログラミングの知識・スキルを活かせる職に就きたい！！  
 
@@ -21,8 +21,8 @@
 使ったことや興味のある言語、ツール、OS
 - OS（Linux,Ubuntu）
 - Languages　(HTML&CSS,Sass,Ruby,Ruby on rails,JavaScript,Node.js, Expressなど)
-- Tool,MiddleWare（Git,GitHub,AWSなど）
-- 資格、免許（普通自動車運転免許（笑））
+- Tool,MiddleWare（Git,GitHub,AWS,Dockerなど）
+- 資格、免許（ITパスポート、普通自動車運転免許（笑））
 
 # Works
 - [GitHub](https://github.com/tomosuke-art)
@@ -40,4 +40,4 @@
 学歴、職歴、アルバイト、インターン経験など。
 - 2018年 　　同志社大学経済学部入学
 - 2018年 〜　飲食・小売・清掃のアルバイト,バスケットボールのサークル活動
-- 2020年 〜　IT業界を中心に幅広くみてます！
+- 2020年 〜　IT業界を中心としたエンジニア職を希望しております！
