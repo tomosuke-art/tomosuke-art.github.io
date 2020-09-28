@@ -27,19 +27,19 @@
 - 資格、免許（ITパスポート、普通自動車運転免許（笑））
 
 # Works
-- [GitHub](https://github.com/tomosuke-art)
+- <a href="https://github.com/tomosuke-art"><i class="fab fa-github"></i></a>
 - 作った作品
   - [Let`s Share My Favorite!](lets-share-netflix.herokuapp.com/) -> Netflixのオススメ作品を共有するサイト
      <img src ="lets-share-netflix.jpg" width="400"><br>
   - [RubyTwitter](https://tomosuketwitter.herokuapp.com/) ->超簡易版Twitter.<br>AWSでデプロイする練習用に作りました。<br>
      しかし、AWSを使いこなせず、料金が思った以上に発生し怖くなったので諦めました笑
 # Intern 
-- 1day:アイソルート・CCI・SCSk・パーソナル＆テクノロジー・GMOペイメント,,,etc
+- 1day:アイソルート・CCI・SCSK・パーソナル＆テクノロジー・GMOペイメント,,,etc
 - 5days:エクサ（JS講義・アプリ開発）
 
 # Contact
-- <i class="fab fa-twitter"></i>(https://twitter.com/e7dr7XBs2sdApXV)<br>
-- <i class="fab fa-facebook"></i>(https://www.facebook.com/profile.php?id=100011250104610)
+-  <a href="https://twitter.com/e7dr7XBs2sdApXV"><i class="fab fa-twitter"></i></a><br>
+-  <a href="https://www.facebook.com/profile.php?id=100011250104610"><i class="fab fa-facebook"></i></a>
 # History
 学歴、職歴、アルバイト、インターン経験など。
 - 2018年 　　同志社大学経済学部入学
