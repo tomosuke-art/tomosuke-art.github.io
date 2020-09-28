@@ -9,7 +9,9 @@
 2020年3月　〜　2020年6月 プログラミング教室GeekSalonにて基礎を学びオリジナルのwebアプリケーションを作成！！  
 2020年7月　〜 独学でJavaScript,Node.js,AWS,Dockerなどを勉強し始める！！  
 
-将来は、エンジニアもしくはプログラミングの知識・スキルを活かせる職に就きたい！！<br>（最近はデジタルマーケとかも面白そうと思うようになったり、、、）
+将来は、エンジニアもしくはプログラミングの知識・スキルを活かせる職に就きたい！！<br>
+エンジニアの場合は教育制度の整っている企業がいいです。<br>
+（最近はデジタルマーケとかも面白そうと思うようになったり、、、）
 
 # Profile
 中川　友太朗<br>
@@ -27,19 +29,19 @@
 - 資格、免許（ITパスポート、普通自動車運転免許（笑））
 
 # Works
-- <a href="https://github.com/tomosuke-art"><i class="fab fa-github"></i></a>
 - 作った作品
   - [Let`s Share My Favorite!](lets-share-netflix.herokuapp.com/) -> Netflixのオススメ作品を共有するサイト
      <img src ="lets-share-netflix.jpg" width="400"><br>
   - [RubyTwitter](https://tomosuketwitter.herokuapp.com/) ->超簡易版Twitter.<br>AWSでデプロイする練習用に作りました。<br>
-     しかし、AWSを使いこなせず、料金が思った以上に発生し怖くなったので諦めました笑
+     しかし、AWSを使いこなせず、料金が思った以上に発生し怖くなったので諦めました笑<br>
 # Intern 
 - 1day:アイソルート・CCI・SCSK・パーソナル＆テクノロジー・GMOペイメント,,,etc
 - 5days:エクサ（JS講義・アプリ開発）
 
 # Contact
--  <a href="https://twitter.com/e7dr7XBs2sdApXV"><i class="fab fa-twitter"></i></a><br>
--  <a href="https://www.facebook.com/profile.php?id=100011250104610"><i class="fab fa-facebook"></i></a>
+- <a href="https://github.com/tomosuke-art"><i class="fab fa-github fa-2x"></i></a>
+- <a href="https://twitter.com/e7dr7XBs2sdApXV"><i class="fab fa-twitter fa-2x "></i></a><br>
+- <a href="https://www.facebook.com/profile.php?id=100011250104610"><i class="fab fa-facebook fa-2x"></i></a>
 # History
 学歴、職歴、アルバイト、インターン経験など。
 - 2018年 　　同志社大学経済学部入学
