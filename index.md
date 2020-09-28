@@ -1,4 +1,5 @@
 <img src ="profile_face.jpg" width="600"><br>
+<link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
 
 # About Me
 20年間京都に住んでます！！<br>
@@ -21,8 +22,8 @@
 # Skills
 使ったことや興味のある言語、ツール、OS
 - OS（Linux,Ubuntu）
-- Languages　(HTML&CSS,Sass,Ruby,Ruby on rails,JavaScript,Node.js, Expressなど)
-- Tool,MiddleWare（Git,GitHub,AWS,Dockerなど）
+- Languages　(HTML&CSS,Sass,Ruby,Ruby on rails,JavaScript,Node.jsなど)
+- Tool,MiddleWare（Git,GitHub,AWS,Docker,Glitchなど）
 - 資格、免許（ITパスポート、普通自動車運転免許（笑））
 
 # Works
@@ -32,11 +33,13 @@
      <img src ="lets-share-netflix.jpg" width="400"><br>
   - [RubyTwitter](https://tomosuketwitter.herokuapp.com/) ->超簡易版Twitter.<br>AWSでデプロイする練習用に作りました。<br>
      しかし、AWSを使いこなせず、料金が思った以上に発生し怖くなったので諦めました笑
+# Intern 
+- 1day:アイソルート・CCI・SCSk・パーソナル＆テクノロジー・GMOペイメント,,,etc
+- 5days:エクサ（JS講義・アプリ開発）
 
 # Contact
-- [Twitter](https://twitter.com/tomotomo_1D)<br>
-<a class="twitter-timeline" data-width="400" data-height="400" data-theme="light" href="https://twitter.com/tomotomo_1D?ref_src=twsrc%5Etfw">Tweets by tomotomo_1D</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-- [Facebook](https://www.facebook.com/profile.php?id=100011250104610)
+- <i class="fab fa-twitter"></i>(https://twitter.com/e7dr7XBs2sdApXV)<br>
+- <i class="fab fa-facebook"></i>(https://www.facebook.com/profile.php?id=100011250104610)
 # History
 学歴、職歴、アルバイト、インターン経験など。
 - 2018年 　　同志社大学経済学部入学
