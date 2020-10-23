@@ -9,8 +9,8 @@
 2020年3月　〜　2020年6月 プログラミング教室GeekSalonにて基礎を学びオリジナルのwebアプリケーションを作成！！  
 2020年7月　〜 独学でJavaScript,Node.js,AWS,Dockerなどを勉強し始める！！  
 
-将来は、エンジニアもしくはプログラミングの知識・スキルを活かせる職に就きたい！！<br>
-エンジニアの場合は教育制度の整っている企業がいいです。<br>
+将来は、SIer・web業界にてエンジニアとして働きたい！！<br>
+エンジニアの場合は教育制度の整っており、また上流〜下流まで経験できる企業で働きたいです<br>
 （最近はデジタルマーケとかも面白そうと思うようになったり、、、）
 
 # Profile
@@ -18,8 +18,7 @@
 大学：同志社大学経済学部経済学科３回生<br>
 居住地：京都市<br>
 誕生日：1999/11/30<br>
-好きなYouTuber:中田敦彦のYouTube大学<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FH7L0kyl2GA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+好きなYouTuber:中田敦彦のYouTube大学
 
 # Skills
 使ったことや興味のある言語、ツール、OS
@@ -35,7 +34,8 @@
   - [RubyTwitter](https://tomosuketwitter.herokuapp.com/) ->超簡易版Twitter.<br>AWSでデプロイする練習用に作りました。<br>
      しかし、AWSを使いこなせず、料金が思った以上に発生し怖くなったので諦めました笑<br>
 # Intern 
-- 1day:アイソルート・CCI・SCSK・パーソナル＆テクノロジー・GMOペイメント,,,etc
+- 1day:アイソルート・CCI・SCSK・パーソルプロセス＆テクノロジー・GMOペイメント,,,etc
+- 2days:三菱UFJインフォメーションテクノロジー（予定：11月）
 - 5days:エクサ（JS講義・アプリ開発）
 
 # Contact
